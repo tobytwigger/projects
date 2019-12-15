@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5827c492-c6ea-44fa-a71d-8eea74704bb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bootstrap/bootstrap-minty.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/bootstrap/Accordian.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/bootstrap/AccordianItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/Layout.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/LayoutHeader.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/utils/LargeProjectOverview.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/utils/SmallProjectOverview.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap-cerulean.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap-minty.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap-sketchy.min.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +90,7 @@
       <updated>1576363412021</updated>
       <workItem from="1576363413207" duration="7472000" />
       <workItem from="1576370948770" duration="736000" />
-      <workItem from="1576371721559" duration="1382000" />
+      <workItem from="1576371721559" duration="1652000" />
     </task>
     <servers />
   </component>
